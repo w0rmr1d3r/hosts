@@ -1,0 +1,17 @@
+# Title: w0rmr1d3r/hosts
+#
+# Date: 16 March 2024
+# Number of unique domains: TBD
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/w0rmr1d3r/hosts/master/hosts
+# Project home page: https://github.com/w0rmr1d3r/hosts
+# Project releases: TBD
+#
+# ===============================================================
+
+# La Vanguardia payview
+0.0.0.0 rsc.lavanguardia.com
+0.0.0.0 ev.lavanguardia.com
+
+# Marfeel Tracking
+0.0.0.0 events.newsroom.bi
