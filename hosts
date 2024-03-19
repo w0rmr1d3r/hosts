@@ -1,7 +1,7 @@
 # Title: w0rmr1d3r/hosts
 #
 # Date: 17 March 2024
-# Number of unique domains: 5
+# Number of unique domains: 7
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/w0rmr1d3r/hosts/master/hosts
 # Project home page: https://github.com/w0rmr1d3r/hosts
@@ -15,6 +15,7 @@
 
 # Marfeel Tracking
 0.0.0.0 events.newsroom.bi
+0.0.0.0 flowcards.mrf.io
 0.0.0.0 marfeelexperimentsexperienceengine.mrf.io
 0.0.0.0 sdk.mrf.io
 
