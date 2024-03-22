@@ -1,7 +1,7 @@
 # Title: w0rmr1d3r/hosts
 #
-# Date: 19 March 2024
-# Number of unique domains: 7
+# Date: 22 March 2024
+# Number of unique domains: TBD
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/w0rmr1d3r/hosts/master/hosts
 # Project home page: https://github.com/w0rmr1d3r/hosts
@@ -13,11 +13,175 @@
 0.0.0.0 ev.lavanguardia.com
 0.0.0.0 rsc.lavanguardia.com
 
-# Marfeel Tracking
+# Marfeel Tracking over different domains
 0.0.0.0 events.newsroom.bi
+
+# Marfeel Tracking under mrf.io
+0.0.0.0 apidocs.mrf.io
+0.0.0.0 auth.mrf.io
+0.0.0.0 charon.het.mrf.io
+0.0.0.0 chproxyfree.mrf.io
+0.0.0.0 chproxy.mrf.io
+0.0.0.0 community-cdn.mrf.io
+0.0.0.0 compassattribution.mrf.io
+0.0.0.0 compasschuploaderrors.mrf.io
+0.0.0.0 compassclickhouserecirculationuploader.mrf.io
+0.0.0.0 compassclickhouseuploader.mrf.io
+0.0.0.0 compasscoreupload.mrf.io
+0.0.0.0 compassdata.mrf.io
+0.0.0.0 compassdynamicpaywall.mrf.io
+0.0.0.0 compassdynamicpaywalltraining.mrf.io
+0.0.0.0 compasseditorials.mrf.io
+0.0.0.0 compasseditorialvectors.mrf.io
+0.0.0.0 compassentitiesprocessor.mrf.io
+0.0.0.0 compassextractedimages.mrf.io
+0.0.0.0 compassextractor.mrf.io
+0.0.0.0 compassingestevents.mrf.io
+0.0.0.0 compassingest.mrf.io
+0.0.0.0 compassmiddleware.mrf.io
+0.0.0.0 compassmultimedia.mrf.io
+0.0.0.0 compassproducts.mrf.io
+0.0.0.0 eu1.mshield.mrf.io
+0.0.0.0 experiences.mrf.io
+0.0.0.0 experiencestest.mrf.io
+0.0.0.0 fesningest01a.het.mrf.io
+0.0.0.0 fesningest02a.het.mrf.io
+0.0.0.0 fesningest03a.het.mrf.io
+0.0.0.0 fesningest04a.het.mrf.io
+0.0.0.0 fesningest.het.mrf.io
+0.0.0.0 flowcards-e2e.mrf.io
 0.0.0.0 flowcards.mrf.io
+0.0.0.0 gitlab2.mrf.io
+0.0.0.0 gitlab.mrf.io
+0.0.0.0 googlesearchconsoleengine.mrf.io
+0.0.0.0 keydbloadgenerator.mrf.io
+0.0.0.0 kibana01a.het.mrf.io
+0.0.0.0 kirby.mrf.io
+0.0.0.0 liveint.mrf.io
+0.0.0.0 live.mrf.io
+0.0.0.0 livepint.mrf.io
+0.0.0.0 livep.mrf.io
+0.0.0.0 marfeelaffiliateexperienceengine.mrf.io
+0.0.0.0 marfeelaffiliateexperience.mrf.io
+0.0.0.0 marfeelaffiliateexperiencerender.mrf.io
+0.0.0.0 marfeelapidocs.mrf.io
+0.0.0.0 marfeelassetsengine.mrf.io
+0.0.0.0 marfeelauth.mrf.io
+0.0.0.0 marfeelbooldog.mrf.io
+0.0.0.0 marfeelbroker.mrf.io
+0.0.0.0 marfeelcast.mrf.io
+0.0.0.0 marfeelcommunications.mrf.io
+0.0.0.0 marfeelcommunicationsteamsapp.mrf.io
+0.0.0.0 marfeelcommunityproxy.mrf.io
+0.0.0.0 marfeelcontentplanner.mrf.io
+0.0.0.0 marfeelcopilot.mrf.io
+0.0.0.0 marfeelcroupier.mrf.io
+0.0.0.0 marfeeldataexports.mrf.io
 0.0.0.0 marfeelexperimentsexperienceengine.mrf.io
+0.0.0.0 marfeelexperimentsexperience.mrf.io
+0.0.0.0 marfeelfacebookexperienceengine.mrf.io
+0.0.0.0 marfeelfacebookexperience.mrf.io
+0.0.0.0 marfeelfacebookexperiencerender.mrf.io
+0.0.0.0 marfeelgatheringexperienceengine.mrf.io
+0.0.0.0 marfeelgatheringexperience.mrf.io
+0.0.0.0 marfeelgatheringexperiencerender.mrf.io
+0.0.0.0 marfeeljots.mrf.io
+0.0.0.0 marfeeljukebox.mrf.io
+0.0.0.0 marfeellayoutexperienceengine.mrf.io
+0.0.0.0 marfeellinkedinexperienceengine.mrf.io
+0.0.0.0 marfeelmarshall.mrf.io
+0.0.0.0 marfeelmiddleware.mrf.io
+0.0.0.0 marfeelmrippers.mrf.io
+0.0.0.0 marfeelnorth.mrf.io
+0.0.0.0 marfeeloptimus.mrf.io
+0.0.0.0 marfeelpassexperienceengine.mrf.io
+0.0.0.0 marfeelpassexperience.mrf.io
+0.0.0.0 marfeelpodcastexperienceengine.mrf.io
+0.0.0.0 marfeelpodcastexperiencerender.mrf.io
+0.0.0.0 marfeelpuppeteer.mrf.io
+0.0.0.0 marfeelpush.mrf.io
+0.0.0.0 marfeelrecommenderexperienceengine.mrf.io
+0.0.0.0 marfeelredditexperienceengine.mrf.io
+0.0.0.0 marfeelredditexperiencerender.mrf.io
+0.0.0.0 marfeelruler.mrf.io
+0.0.0.0 marfeelserp.mrf.io
+0.0.0.0 marfeelsocial.mrf.io
+0.0.0.0 marfeeltelegramexperienceengine.mrf.io
+0.0.0.0 marfeeltelegramexperience.mrf.io
+0.0.0.0 marfeeltelegramexperiencerender.mrf.io
+0.0.0.0 marfeeltemplateexperienceengine.mrf.io
+0.0.0.0 marfeeltiktokexperienceengine.mrf.io
+0.0.0.0 marfeeltiktokexperiencerender.mrf.io
+0.0.0.0 marfeeltouch.mrf.io
+0.0.0.0 marfeeltwitterexperienceengine.mrf.io
+0.0.0.0 marfeeltwitterexperience.mrf.io
+0.0.0.0 marfeeltwitterexperiencerender.mrf.io
+0.0.0.0 marfeelusermanagement.mrf.io
+0.0.0.0 marfeelwhois.mrf.io
+0.0.0.0 marfeelwidgetexperienceengine.mrf.io
+0.0.0.0 marfeelxfiles.mrf.io
+0.0.0.0 marfeelyoutubeexperienceengine.mrf.io
+0.0.0.0 marfeelyoutubeexperience.mrf.io
+0.0.0.0 marfeelyoutubeexperiencerender.mrf.io
+0.0.0.0 mcheckers.mrf.io
+0.0.0.0 mrf.io
+0.0.0.0 mshield.mrf.io
+0.0.0.0 msmint.mrf.io
+0.0.0.0 nginxmfeeltesting-01.mrf.io
+0.0.0.0 nginxmfeeltesting-02.mrf.io
+0.0.0.0 nginxmfeeltesting-03.mrf.io
+0.0.0.0 nginxmfeeltesting-04.mrf.io
+0.0.0.0 nginxmfeeltesting-05.mrf.io
+0.0.0.0 nginxmfeeltesting-06.mrf.io
+0.0.0.0 nginxmfeeltesting-07.mrf.io
+0.0.0.0 nginxmfeeltesting-08.mrf.io
+0.0.0.0 nginxmfeeltesting-09.mrf.io
+0.0.0.0 nginxmfeeltesting-10.mrf.io
+0.0.0.0 nginxmfeeltesting-11.mrf.io
+0.0.0.0 nginxmfeeltesting-12.mrf.io
+0.0.0.0 nginxmfeeltesting-13.mrf.io
+0.0.0.0 nginxmfeeltesting-14.mrf.io
+0.0.0.0 nginxmfeeltesting-15.mrf.io
+0.0.0.0 nginxmfeeltesting-16.mrf.io
+0.0.0.0 nginx-mfeel-testing.mrf.io
+0.0.0.0 openrestytest.mrf.io
+0.0.0.0 optimus.mrf.io
+0.0.0.0 playground.mrf.io
+0.0.0.0 prebid-cache-java.mrf.io
+0.0.0.0 prebid-server-java.mrf.io
+0.0.0.0 prometheus01.het.mrf.io
+0.0.0.0 prometheusnorth01.het.mrf.io
+0.0.0.0 sdk-builder.mrf.io
 0.0.0.0 sdk.mrf.io
+0.0.0.0 server-side-ditto.mrf.io
+0.0.0.0 shopifymarfeeltracker.mrf.io
+0.0.0.0 soteria.het.mrf.io
+0.0.0.0 soteria.mrf.io
+0.0.0.0 sparky.mrf.io
+0.0.0.0 ssl00.cert.cl00.k8s.mrf.io
+0.0.0.0 ssl00.cert.cl01.k8s.mrf.io
+0.0.0.0 ssl00.cert.cl02.k8s.mrf.io
+0.0.0.0 ssl00.cert.cl11.k8s.mrf.io
+0.0.0.0 ssl00.cert.cl13.k8s.mrf.io
+0.0.0.0 ssl01.cert.cl00.k8s.mrf.io
+0.0.0.0 ssl01.cert.cl01.k8s.mrf.io
+0.0.0.0 ssl01.cert.cl02.k8s.mrf.io
+0.0.0.0 ssl01.cert.cl11.k8s.mrf.io
+0.0.0.0 ssl01.cert.cl13.k8s.mrf.io
+0.0.0.0 ssl02.cert.cl00.k8s.mrf.io
+0.0.0.0 ssl02.cert.cl01.k8s.mrf.io
+0.0.0.0 ssl02.cert.cl02.k8s.mrf.io
+0.0.0.0 ssl02.cert.cl11.k8s.mrf.io
+0.0.0.0 ssl02.cert.cl13.k8s.mrf.io
+0.0.0.0 ssl03.cert.cl00.k8s.mrf.io
+0.0.0.0 ssl03.cert.cl01.k8s.mrf.io
+0.0.0.0 ssl03.cert.cl02.k8s.mrf.io
+0.0.0.0 ssl03.cert.cl11.k8s.mrf.io
+0.0.0.0 ssl03.cert.cl13.k8s.mrf.io
+0.0.0.0 syncreposettings.mrf.io
+0.0.0.0 us1.mshield.mrf.io
+0.0.0.0 vespafeedex.mrf.io
+
 
 # Malware
 0.0.0.0 www.coatito.com
