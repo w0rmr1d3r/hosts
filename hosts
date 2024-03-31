@@ -1,7 +1,7 @@
 # Title: w0rmr1d3r/hosts
 #
-# Date: 22 March 2024
-# Number of unique domains: TBD
+# Date: 01 April 2024
+# Number of unique domains: 180
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/w0rmr1d3r/hosts/master/hosts
 # Project home page: https://github.com/w0rmr1d3r/hosts
@@ -9,9 +9,19 @@
 #
 # ===============================================================
 
+# eldiario.es tracking
+0.0.0.0 api.ipify.org
+
+# eleconomista.es tracking
+0.0.0.0 e.channelexco.com
+0.0.0.0 mcd.ex.co
+
 # La Vanguardia payview
 0.0.0.0 ev.lavanguardia.com
 0.0.0.0 rsc.lavanguardia.com
+
+# Malware
+0.0.0.0 www.coatito.com
 
 # Marfeel Tracking over different domains
 0.0.0.0 events.newsroom.bi
@@ -182,6 +192,15 @@
 0.0.0.0 us1.mshield.mrf.io
 0.0.0.0 vespafeedex.mrf.io
 
+# NY Times tracking
+0.0.0.0 a.nytimes.com
+0.0.0.0 a.et.nytimes.com
+0.0.0.0 pnytimes.chartbeat.net
+0.0.0.0 purr.nytimes.com
+0.0.0.0 s.go-mpulse.net
 
-# Malware
-0.0.0.0 www.coatito.com
+# Sensit.net tracking
+0.0.0.0 es-config.sensic.net
+0.0.0.0 es1-s2s.sensic.net
+0.0.0.0 fc-id.sensic.net
+0.0.0.0 trk.sensic.net
