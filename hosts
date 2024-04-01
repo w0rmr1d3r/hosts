@@ -1,7 +1,7 @@
 # Title: w0rmr1d3r/hosts
 #
 # Date: 01 April 2024
-# Number of unique domains: 180
+# Number of unique domains: 183
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/w0rmr1d3r/hosts/master/hosts
 # Project home page: https://github.com/w0rmr1d3r/hosts
@@ -204,3 +204,8 @@
 0.0.0.0 es1-s2s.sensic.net
 0.0.0.0 fc-id.sensic.net
 0.0.0.0 trk.sensic.net
+
+# Unity 3d Ads
+0.0.0.0 c.iads.unity3d.com
+0.0.0.0 icon-uap.iads.unity3d.com
+0.0.0.0 o-pxt.iads.unity3d.com
