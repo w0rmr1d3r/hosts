@@ -211,6 +211,23 @@
 0.0.0.0 fc-id.sensic.net
 0.0.0.0 trk.sensic.net
 
+# Spotify
+# 0.0.0.0 edge-web.dual-gslb.spotify.com # This blocks spotify on macOS
+# 0.0.0.0 gew1-spclient.spotify.com # Makes Spotify in iOS not to work
+0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 ap.spotify.com
+0.0.0.0 a0.video-ak.cdn.spotify.com
+0.0.0.0 a1.video-ak.cdn.spotify.com
+0.0.0.0 aa.video-ak.cdn.spotify.com
+0.0.0.0 ab.video-ak.cdn.spotify.com
+0.0.0.0 ad.video-ak.cdn.spotify.com
+0.0.0.0 af.video-ak.cdn.spotify.com
+0.0.0.0 db.video-ak.cdn.spotify.com
+0.0.0.0 dd.video-ak.cdn.spotify.com
+0.0.0.0 apresolve.spotify.com
+0.0.0.0 pixel-static.spotify.com
+0.0.0.0 xpui.app.spotify.com
+
 # Unity 3d Ads
 0.0.0.0 c.iads.unity3d.com
 0.0.0.0 gw.mediation.unity3d.com
@@ -83105,22 +83122,9 @@
 0.0.0.0 wsback-get-config.presage.io
 0.0.0.0 www.interia.pl
 0.0.0.0 www.spotx.tv
-0.0.0.0 a0.video-ak.cdn.spotify.com
-0.0.0.0 a1.video-ak.cdn.spotify.com
-0.0.0.0 aa.video-ak.cdn.spotify.com
-0.0.0.0 ab.video-ak.cdn.spotify.com
-0.0.0.0 ad.video-ak.cdn.spotify.com
-0.0.0.0 af.video-ak.cdn.spotify.com
-0.0.0.0 db.video-ak.cdn.spotify.com
-0.0.0.0 dd.video-ak.cdn.spotify.com
-0.0.0.0 apresolve.spotify.com
 0.0.0.0 beacon-ams3.rubiconproject.com
 0.0.0.0 clients1.google.com
-0.0.0.0 edge-web.dual-gslb.spotify.com
 0.0.0.0 star.c10r.facebook.com
-0.0.0.0 ap.spotify.com
-0.0.0.0 xpui.app.spotify.com
-# 0.0.0.0 gew1-spclient.spotify.com # Makes Spotify in iOS not to work
 0.0.0.0 canvaz.scdn.co
 
 # Retrieved from: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -91733,10 +91737,6 @@
 0.0.0.0 events-collector.spot.im
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 pix.spot.im
-
-# [spotify.com]
-0.0.0.0 adeventtracker.spotify.com
-0.0.0.0 pixel-static.spotify.com
 
 # [spotscenered.info]
 0.0.0.0 spotscenered.info
