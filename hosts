@@ -212,8 +212,9 @@
 0.0.0.0 trk.sensic.net
 
 # Spotify
-# 0.0.0.0 edge-web.dual-gslb.spotify.com # This blocks spotify on macOS
-# 0.0.0.0 gew1-spclient.spotify.com # Makes Spotify in iOS not to work
+# 0.0.0.0 edge-web.dual-gslb.spotify.com # Makes Spotify not to work
+# 0.0.0.0 gew1-spclient.spotify.com # Makes Spotify not to work
+# 0.0.0.0 partners.wg.spotify.com # Makes Spotify not to work
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ap.spotify.com
 0.0.0.0 a0.video-ak.cdn.spotify.com
@@ -225,6 +226,14 @@
 0.0.0.0 db.video-ak.cdn.spotify.com
 0.0.0.0 dd.video-ak.cdn.spotify.com
 0.0.0.0 apresolve.spotify.com
+0.0.0.0 exp.wg.spotify.com
+0.0.0.0 embed.spotify.com
+0.0.0.0 esdk-ffl.spotify.com
+0.0.0.0 exp-canary.wg.spotify.com
+0.0.0.0 facebook-callback.spotify.com
+0.0.0.0 felice.ash1.spotify.com
+0.0.0.0 felice.ash.spotify.com
+0.0.0.0 files.spotify.com
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 xpui.app.spotify.com
 
@@ -82638,14 +82647,6 @@
 0.0.0.0 download.spotify.com
 0.0.0.0 download.spotify.map.fastly.net
 0.0.0.0 ds.serving-sys.gads.pubmatic.c
-0.0.0.0 embed.spotify.com
-0.0.0.0 esdk-ffl.spotify.com
-0.0.0.0 exp-canary.wg.spotify.com
-0.0.0.0 exp.wg.spotify.com
-0.0.0.0 facebook-callback.spotify.com
-0.0.0.0 felice.ash1.spotify.com
-0.0.0.0 felice.ash.spotify.com
-0.0.0.0 files.spotify.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 gae2-accesspoint-b-kvql.ap.spotify.com
 0.0.0.0 gae2-accesspoint-b-m3zs.ap.spotify.com
@@ -82764,7 +82765,6 @@
 0.0.0.0 partner.googleadservices.
 0.0.0.0 partnerportal.spotify.com
 0.0.0.0 partners.spotify.com
-0.0.0.0 partners.wg.spotify.com
 0.0.0.0 pl.scdn.co
 0.0.0.0 play.spotify.edgekey.net
 0.0.0.0 player.spotify.com
