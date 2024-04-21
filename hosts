@@ -7,12 +7,76 @@
 # Project releases: TBD
 # ===============================================================
 
+# Doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 accounts.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ff.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 5290727.fls.doubleclick.net
+0.0.0.0 8168974.fls.doubleclick.net
+0.0.0.0 8397396.fls.doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 s0.doubleclick.net
+0.0.0.0 static.doubleclick.net
+
 # eldiario.es tracking
 0.0.0.0 api.ipify.org
 
 # eleconomista.es tracking
 0.0.0.0 e.channelexco.com
 0.0.0.0 mcd.ex.co
+
+# Google
+0.0.0.0 adservice.google.com
+0.0.0.0 ads.google.com
+0.0.0.0 analytics.google.com
+0.0.0.0 region1.analytics.google.com
+0.0.0.0 clients1.google.com
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 googleadclicks.com
+0.0.0.0 www.googleadclicks.com
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 static.googleadsserving.cn
+0.0.0.0 googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 displayads-formats.googleusercontent.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 s0-2mdn-net.l.google.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 adservice.google.co.uk
+0.0.0.0 googleadapis.l.google.com
+0.0.0.0 googleads.g.doubleclick.com
+0.0.0.0 googletagservices.com
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 cloudconfig.googleapis.com
+0.0.0.0 digitalassetlinks.googleapis.com
+
+# Hadron ad gt
+0.0.0.0 id.hadron.ad.gt
 
 # La Vanguardia payview
 0.0.0.0 ev.lavanguardia.com
@@ -204,6 +268,10 @@
 0.0.0.0 pnytimes.chartbeat.net
 0.0.0.0 purr.nytimes.com
 0.0.0.0 s.go-mpulse.net
+
+# Periodismosinafan
+0.0.0.0 www.google.periodismosinafan.com
+0.0.0.0 google.periodismosinafan.com
 
 # Sensit.net tracking
 0.0.0.0 es-config.sensic.net
@@ -19444,8 +19512,6 @@
 0.0.0.0 goodyearazbeeremoval.com
 0.0.0.0 goog.worldkolf.info
 0.0.0.0 googaccountverifyinfo.com
-0.0.0.0 google.periodismosinafan.com
-0.0.0.0 googleadclicks.com
 0.0.0.0 gooiskeukenmontage.com
 0.0.0.0 goonanna.com
 0.0.0.0 gooooootoooooo.com
@@ -54354,8 +54420,6 @@
 0.0.0.0 www.goodyearazbeeremoval.com
 0.0.0.0 www.goog.worldkolf.info
 0.0.0.0 www.googaccountverifyinfo.com
-0.0.0.0 www.google.periodismosinafan.com
-0.0.0.0 www.googleadclicks.com
 0.0.0.0 www.gooiskeukenmontage.com
 0.0.0.0 www.goonanna.com
 0.0.0.0 www.gooooootoooooo.com
@@ -82383,25 +82447,9 @@
 0.0.0.0 ads-west-colo.adsymptotic.com
 0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 adclick.g.doublecklick.net
-0.0.0.0 analytics.google.com
 0.0.0.0 ee-in-f95.1.e100.net
 0.0.0.0 gcdn.2mdn.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 googleadservices.com
 0.0.0.0 s0.2mdn.net
-0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 pagead-googlehosted.l.google.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pagead46.l.doubleclick.net
-0.0.0.0 partner.googleadservices.com
-0.0.0.0 partnerad.l.doubleclick.net
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 s0-2mdn-net.l.google.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 video-ad-stats.googlesyndication.com
-0.0.0.0 www.googletagservices.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 api-ping.intercom.io
@@ -82533,7 +82581,6 @@
 0.0.0.0 ads-fa.spotify.com
 0.0.0.0 ads-sp-lon.cdn.spotify.com
 0.0.0.0 ads.spotify.com
-0.0.0.0 adservice.google.co.uk
 0.0.0.0 adstudio-assets.scdn.co
 0.0.0.0 adstudio.spotify.com
 0.0.0.0 ainara.ash1.spotify.com
@@ -82674,9 +82721,6 @@
 0.0.0.0 gew-dealer.spotify.com
 0.0.0.0 gew-spclient.spotify.com
 0.0.0.0 go.scdn.co
-0.0.0.0 googleadapis.l.google.com
-0.0.0.0 googleads.g.doubleclick.
-0.0.0.0 googletagservices.com
 0.0.0.0 groups.spotify.com
 0.0.0.0 gtssl2-ocsp.geotrust.
 0.0.0.0 guc3-accesspoint-b-76wp.ap.spotify.com
@@ -82759,10 +82803,8 @@
 0.0.0.0 opensource.spotify.com
 0.0.0.0 origin-play.spotify.com
 0.0.0.0 p.scdn.co
-0.0.0.0 pagead2.googlesyndication.
 0.0.0.0 pagead46.l.doubleclick.
 0.0.0.0 partner-provisioning.spotify.com
-0.0.0.0 partner.googleadservices.
 0.0.0.0 partnerportal.spotify.com
 0.0.0.0 partners.spotify.com
 0.0.0.0 pl.scdn.co
@@ -82840,7 +82882,6 @@
 0.0.0.0 techattend.com
 0.0.0.0 thisis-images.scdn.co
 0.0.0.0 timecapsule.spotify.com
-0.0.0.0 tpc.googlesyndication.
 0.0.0.0 tv-cast-prod.scdn.co
 0.0.0.0 tv-static.scdn.co
 0.0.0.0 tv.scdn.co
@@ -82850,7 +82891,6 @@
 0.0.0.0 upsell.scdn.co
 0.0.0.0 useradmin.spotify.com
 0.0.0.0 v.jwpcdn.
-0.0.0.0 video-ad-stats.googlesyndication.
 0.0.0.0 video-akp-cdn-spotify-com.akamaized.net
 0.0.0.0 video-fa.scdn.co
 0.0.0.0 vpn-ash1-1.ash1.spotify.com
@@ -82868,12 +82908,8 @@
 0.0.0.0 ws-partner.spotify.com
 0.0.0.0 ws.spotify.com
 0.0.0.0 www-001.lon.spotify.com
-0.0.0.0 www.googleadservices.
-0.0.0.0 www.googletagservices.
 0.0.0.0 www.scdn.co
 0.0.0.0 yearinmusic.spotify.com
-0.0.0.0 
-#new
 0.0.0.0 00.audio-ak.cdn.spotify.com
 0.0.0.0 01.audio-ak.cdn.spotify.com
 0.0.0.0 02.audio-ak.cdn.spotify.com
@@ -83097,19 +83133,14 @@
 0.0.0.0 f9.audio-ak.cdn.spotify.com
 0.0.0.0 audio-sp.scdn.co
 0.0.0.0 pci.spotify.com 
-# pay server
 0.0.0.0 upgrade.scdn.com
 0.0.0.0 www.spotify-desktop.com
 0.0.0.0 078d9f6a6dc1.cdn4.forter.com
 0.0.0.0 anycast.pixel.adsafeprotected.
 0.0.0.0 cdn.tellwrite.com
-0.0.0.0 cloudconfig.googleapis.com
-0.0.0.0 digitalassetlinks.googleapis.c
 0.0.0.0 infoevent.startappservice.com
 0.0.0.0 lb1-217593028.us-east-1.elb.am
 0.0.0.0 media-router-flurry7.prod.medi
-0.0.0.0 pagead-googlehosted.l.google.c
-0.0.0.0 people-pa.googleapis.com
 0.0.0.0 rp-lb-766892831.us-east-1.elb.
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 sdkm.w.inmobi.com
@@ -83118,12 +83149,10 @@
 0.0.0.0 skypicker-984.firebaseio.com
 0.0.0.0 skypicker-api.infinario.com
 0.0.0.0 sla-intl.trustlook.com
-0.0.0.0 video-ad-stats.googlesyndicati
 0.0.0.0 wsback-get-config.presage.io
 0.0.0.0 www.interia.pl
 0.0.0.0 www.spotx.tv
 0.0.0.0 beacon-ams3.rubiconproject.com
-0.0.0.0 clients1.google.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 canvaz.scdn.co
 
@@ -86309,6 +86338,7 @@
 0.0.0.0 rtb.va.us.criteo.com
 0.0.0.0 widget.va.us.criteo.com
 0.0.0.0 widget.us.criteo.com
+0.0.0.0 ssp-sync.criteo.com
 
 # [criteo.net]
 0.0.0.0 criteo.net
@@ -86649,27 +86679,6 @@
 
 # [dotomi.com]
 0.0.0.0 prebid-match.dotomi.com
-
-# [doubleclick.net]
-0.0.0.0 doubleclick.net
-0.0.0.0 accounts.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ad-emea.doubleclick.net
-0.0.0.0 ff.doubleclick.net
-0.0.0.0 fls.doubleclick.net
-0.0.0.0 5290727.fls.doubleclick.net
-0.0.0.0 8168974.fls.doubleclick.net
-0.0.0.0 8397396.fls.doubleclick.net
-0.0.0.0 g.doubleclick.net
-0.0.0.0 adx.g.doubleclick.net
-0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 survey.g.doubleclick.net
-0.0.0.0 dart.l.doubleclick.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 s0.doubleclick.net
-0.0.0.0 static.doubleclick.net
 
 # [doubleverify.com]
 0.0.0.0 doubleverify.com
@@ -87536,29 +87545,6 @@
 
 # [gooddata.com]
 0.0.0.0 secure.gooddata.com
-
-# [google-analytics.com]
-0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 www.google-analytics.com
-
-# [google.com]
-0.0.0.0 ads.google.com
-0.0.0.0 adservice.google.com
-
-# [googleadservices.com]
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 www.googleadservices.com
-
-# [googleadsserving.cn]
-0.0.0.0 static.googleadsserving.cn
-
-# [googlesyndication.com]
-0.0.0.0 googlesyndication.com
-0.0.0.0 ade.googlesyndication.com
-
-# [googleusercontent.com]
-0.0.0.0 displayads-formats.googleusercontent.com
 
 # [gotoip55.com]
 0.0.0.0 gotoip55.com
