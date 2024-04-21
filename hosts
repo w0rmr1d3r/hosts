@@ -86309,6 +86309,7 @@
 0.0.0.0 rtb.va.us.criteo.com
 0.0.0.0 widget.va.us.criteo.com
 0.0.0.0 widget.us.criteo.com
+0.0.0.0 ssp-sync.criteo.com
 
 # [criteo.net]
 0.0.0.0 criteo.net
