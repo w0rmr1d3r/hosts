@@ -1,7 +1,7 @@
 # Title: w0rmr1d3r/hosts
 #
 # Date: 01 April 2024
-# Number of unique domains: TBD
+# Number of unique domains: (around) 89544
 # Fetch the latest version of this file: https://raw.githubusercontent.com/w0rmr1d3r/hosts/master/hosts
 # Project home page: https://github.com/w0rmr1d3r/hosts
 # Project releases: TBD
@@ -30370,7 +30370,7 @@
 0.0.0.0 pl-bezpieczna-oferta119890.pl
 0.0.0.0 pl-bezpieczna-platnosc.pl
 0.0.0.0 pl-binance.com
-0.0.0.0 pl-com
+# 0.0.0.0 pl-com # Detected as non-domain by PiHole
 0.0.0.0 pl-help.top
 0.0.0.0 pl-in-post.sbs
 0.0.0.0 pl-in-post.top
@@ -82401,7 +82401,6 @@
 0.0.0.0 adnxs.comadplexmedia.adk2x.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 live.adyen.com
-0.0.0.0 bounceexchange.com
 0.0.0.0 admetrix.comscore.com
 0.0.0.0 api.comscore.com
 0.0.0.0 aser.comscore.com
@@ -82636,7 +82635,6 @@
 0.0.0.0 beta.spotify.com
 0.0.0.0 blog.spotify.com
 0.0.0.0 bloodhound.spotify.com
-0.0.0.0 bounceexchange.
 0.0.0.0 brandsnews.spotify.com
 0.0.0.0 bs.serving-sys.
 0.0.0.0 bundling-integration.spotify.com
@@ -82770,7 +82768,7 @@
 0.0.0.0 lysandra.ash.spotify.com
 0.0.0.0 mail.spotify.com
 0.0.0.0 market.spotify.com
-0.0.0.0 media-match.
+# 0.0.0.0 media-match. # Detected as non-domain by PiHole
 0.0.0.0 merch-img.scdn.co
 0.0.0.0 messenger-webhook.spotify.com
 0.0.0.0 messenger-webview.scdn.co
@@ -82828,7 +82826,6 @@
 0.0.0.0 scannables.scdn.co
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure.insightexpressai.com
-0.0.0.0 securepubads.g.doubleclick.n
 0.0.0.0 seektables.scdn.co
 0.0.0.0 server-54-23-216-23.mrs5.r.cloudfront.net
 0.0.0.0 showsportal.spotify.com
@@ -83140,7 +83137,7 @@
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 seen-on-screen.thewhizmarketin
-0.0.0.0 server-54-230-216-203.mrs50.r.
+# 0.0.0.0 server-54-230-216-203.mrs50.r. # Detected as non-domain by PiHole
 0.0.0.0 skypicker-984.firebaseio.com
 0.0.0.0 skypicker-api.infinario.com
 0.0.0.0 sla-intl.trustlook.com
@@ -85446,6 +85443,8 @@
 0.0.0.0 smetrics.boston.com
 
 # [bounceexchange.com]
+# 0.0.0.0 bounceexchange. # Detected as non-domain by PiHole
+0.0.0.0 bounceexchange.com
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 assets.bounceexchange.com
 0.0.0.0 cnn.bounceexchange.com
