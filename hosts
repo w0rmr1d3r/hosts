@@ -82557,9 +82557,6 @@
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 omaze.com
 0.0.0.0 www.omaze.com
-0.0.0.0 gads.pubmatic.com
-0.0.0.0 gads22000.pubmatic.com
-0.0.0.0 showads33000.pubmatic.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 cs126.wpc.teliasoneracdn.net
@@ -82577,7 +82574,6 @@
 0.0.0.0 ad3.adfarm1.adition.com
 0.0.0.0 adclick.g.doublecklick.
 0.0.0.0 adlab.spotify.com
-0.0.0.0 ads-fa.spotify.ads.pubmatic.c
 0.0.0.0 ads-fa.spotify.com
 0.0.0.0 ads-sp-lon.cdn.spotify.com
 0.0.0.0 ads.spotify.com
@@ -82694,7 +82690,6 @@
 0.0.0.0 doubleclick.com
 0.0.0.0 download.spotify.com
 0.0.0.0 download.spotify.map.fastly.net
-0.0.0.0 ds.serving-sys.gads.pubmatic.c
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 gae2-accesspoint-b-kvql.ap.spotify.com
 0.0.0.0 gae2-accesspoint-b-m3zs.ap.spotify.com
@@ -90620,10 +90615,14 @@
 
 # [pubmatic.com]
 0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads-fa.spotify.ads.pubmatic.com
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 apps.pubmatic.com
 0.0.0.0 aud.pubmatic.com
+0.0.0.0 ds.serving-sys.gads.pubmatic.com
 0.0.0.0 clicktrack.pubmatic.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 gads22000.pubmatic.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 image2.pubmatic.com
 0.0.0.0 image3.pubmatic.com
@@ -90636,6 +90635,7 @@
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 simage4.pubmatic.com
+0.0.0.0 showads33000.pubmatic.com
 0.0.0.0 sshowads.pubmatic.com
 
 # [pubmine.com]
