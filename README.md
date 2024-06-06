@@ -2,8 +2,17 @@
 Lists of hosts to block using a pihole (or your machine)
 
 ## Usage
+
+### Pihole
 Add to your pihole adlists:
 https://raw.githubusercontent.com/w0rmr1d3r/hosts/master/hosts
+
+### With /etc/hosts
+
+With enough permissions, do:
+```bash
+curl https://raw.githubusercontent.com/w0rmr1d3r/hosts/master/hosts >> /etc/hosts
+```
 
 ## Inspiration
 
