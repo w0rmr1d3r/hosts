@@ -1,3 +1,9 @@
+# Note of archival
+
+Being moved to https://github.com/w0rmr1d3r/selfhosted
+
+---
+
 # hosts
 Lists of hosts to block using a pihole (or your machine)
 
